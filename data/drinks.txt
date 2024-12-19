@@ -1,0 +1,10 @@
+D001|coca-cola|3.00|0|/resources/cola.jpg
+D002|pepsi|2.50|0|/resources/pepsi.jpg
+D003|sprite|1.50|4|/resources/sprite.jpg
+D004|mountain Dew|2.00|11|/resources/mountain.jpg
+D005|fanta grape|1.50|4|/resources/fanta.jpg
+D006|100 Plus|2.00|12|/resources/100plus.png
+D007|a&w|2.25|3|/resources/aw.jpg
+D008|schweppes|3.00|5|/resources/schweppes.jpg
+D009|iced lemon tea|3.00|15|/resources/iced.jpg
+D010|americano|3.50|0|/resources/americano.jpg
